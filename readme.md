@@ -1,4 +1,4 @@
-# Code-Challenge-1
+# Code challenge
 
 Code problem details:
 
